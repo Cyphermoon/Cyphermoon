@@ -6,14 +6,16 @@ Software Developer
 
 i'm a software developer with over 4 years of experience. I more focused on frontend web development. I really love to learn and collaborate with other developers. I'm dedicated to becoming better at building functional and beautiful apps and sites .
 
-*   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [https://portfolio-site-cyphermoon.vercel.app/](http://cype)
-*   ✉️  You can contact me at [temperaturecaleb@gmail.com](mailto:temperaturecaleb@gmail.com)
-*   🚀  I'm currently working on [https://github.com/Cyphermoon/DSA-codes](http:// )
-*   🧠  I'm currently learning Vite
-*   🤝  I'm open to collaborating on Fintech apps
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [https://portfolio-site-cyphermoon.vercel.app/](http://cype)
+* ✉️  You can contact me at [temperaturecaleb@gmail.com](mailto:temperaturecaleb@gmail.com)
+* 🚀  I'm currently working on [https://github.com/Cyphermoon/DSA-codes](http:// )
+* 🧠  I'm currently learning Vite
+* 🤝  I'm open to collaborating on Fintech apps
 
-### Skills 
+### Skills
+
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,17 +41,16 @@ i'm a software developer with over 4 years of experience. I more focused on fron
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/Cyphermoon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/kelvin-atologun-51935b22a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/moon_cypher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Cyphermoon"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Cyphermoon&stroke=facc15&background=1c1917&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a><a
-                      href="http://www.github.com/Cyphermoon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cyphermoon&bg_color=1c1917&color=facc15&line=facc15&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Cyphermoon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kelvin-atologun-51935b22a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/moon_cypher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Cyphermoon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyphermoon&stroke=facc15&background=1c1917&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+<a href="http://www.github.com/Cyphermoon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cyphermoon&bg_color=1c1917&color=facc15&line=facc15&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

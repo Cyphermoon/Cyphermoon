@@ -11,7 +11,7 @@ i'm a software developer with over 4 years of experience. I more focused on fron
 * ✉️  You can contact me at [temperaturecaleb@gmail.com](mailto:temperaturecaleb@gmail.com)
 * 🚀  I'm currently working on [https://github.com/Cyphermoon/DSA-codes](http:// )
 * 🧠  I'm currently learning Vite
-* 🤝  I'm open to collaborating on Fintech apps
+* 🤝  I'm open to collaborating any projects with cool developers
 
 ### Skills
 

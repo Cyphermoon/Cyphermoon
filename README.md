@@ -10,7 +10,7 @@ i'm a software developer with over 4 years of experience. I more focused on fron
 * 🖥️  See my portfolio at [https://portfolio-site-cyphermoon.vercel.app/](http://cype)
 * ✉️  You can contact me at [temperaturecaleb@gmail.com](mailto:temperaturecaleb@gmail.com)
 * 🚀  I'm currently working on [https://github.com/Cyphermoon/DSA-codes](http:// )
-* 🧠  I'm currently learning Vite
+* 🧠  I'm currently learning how to be a better problem solver
 * 🤝  I'm open to collaborating on any project with cool developers
 
 ### Skills

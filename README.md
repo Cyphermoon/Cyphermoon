@@ -47,10 +47,3 @@ i'm a software developer with over 4 years of experience. I more focused on fron
 
 <p align="left"> <a href="https://www.github.com/Cyphermoon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kelvin-atologun-51935b22a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/moon_cypher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Cyphermoon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyphermoon&stroke=facc15&background=1c1917&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/Cyphermoon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cyphermoon&bg_color=1c1917&color=facc15&line=facc15&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

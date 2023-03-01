@@ -6,11 +6,11 @@ Software Developer
 
 i'm a software developer with over 4 years of experience. I more focused on frontend web development. I really love to learn and collaborate with other developers. I'm dedicated to becoming better at building functional and beautiful apps and sites .
 
-<p align="left">✨ Creating bugs since 2019
-  <br>📚 
-  I'm currently learning  React Native<br>🖥️  
-  See my portfolio at https://portfolio-site-cyphermoon.vercel.app/<br>✉️  
-  You can contact me at temperaturecaleb@gmail.com<br>🤝  I'm open to collaborating on any project with amazing developers</p>
+* ✨ Creating bugs since 2019
+* 📚 I'm currently learning  React Native
+* 🖥️ See my portfolio at https://portfolio-site-cyphermoon.vercel.app/
+* ✉️  You can contact me at temperaturecaleb@gmail.com
+* 🤝 I'm open to collaborating on any project with amazing developers</p>
 
 ### Skills
 

@@ -8,7 +8,7 @@ i'm a software developer with over 4 years of experience. I more focused on fron
 
 * ✨ Creating bugs since 2019
 * 📚 I'm currently learning  Flutter
-* 🖥️ See my portfolio at https://portfolio-site-cyphermoon.vercel.app/
+* 🖥️ See my portfolio at https://cyphermoon.vercel.app/
 * ✉️  You can contact me at temperaturecaleb@gmail.com
 * 🤝 I'm open to collaborating on any project with amazing developers</p>
 
@@ -52,4 +52,3 @@ i'm a software developer with over 4 years of experience. I more focused on fron
 
 <a href="http://www.github.com/Cyphermoon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyphermoon&stroke=facc15&background=1c1917&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/Cyphermoon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cyphermoon&bg_color=1c1917&color=facc15&line=facc15&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

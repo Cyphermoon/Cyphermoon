@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-i'm a software developer with over 4 years of experience. I more focused on frontend web development. I really love to learn and collaborate with other developers. I'm dedicated to becoming better at building functional and beautiful apps and sites .
+I am software developer with 4 years of expertise in building engaging user interfaces. Proficient in writing efficient code, and delivering high-quality web applications. My robust analytical skills, creative problem-solving, and adaptability, combined with a strong work ethic, position me as a valuable asset.
 
 * ✨ Creating bugs since 2019
-* 📚 I'm currently learning  Flutter
+* 📚 I'm currently a student at the University of South Wales
 * 🖥️ See my portfolio at https://cyphermoon.vercel.app/
-* ✉️  You can contact me at temperaturecaleb@gmail.com
-* 🤝 I'm open to collaborating on any project with amazing developers</p>
+* ✉️  You can contact me at kelvin.atologun1@gmail.com
+* 🤝 I'm open to any collaboration with amazing developers</p>
 
 ### Skills
 

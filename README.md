@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kelvin 
 =======================================================================================================================================
 
-Software Developer
+Frontend Developer
 ------------------
 
-I am software developer with 4 years of expertise in building engaging user interfaces. Proficient in writing efficient code, and delivering high-quality web applications. My robust analytical skills, creative problem-solving, and adaptability, combined with a strong work ethic, position me as a valuable asset.
+I am a dedicated front-end developer with three years of hands-on experience in crafting engaging user interfaces and delivering high-quality web applications. I take pride in writing efficient and maintainable code. With a strong passion for continuous learning and professional growth, I am actively seeking opportunities within forward-thinking organizations that are committed to making a positive impact and taking on challenging problems.
 
 * ✨ Creating bugs since 2019
 * 📚 I'm currently a student at the University of South Wales

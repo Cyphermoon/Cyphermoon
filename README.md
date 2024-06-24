@@ -6,7 +6,6 @@ Frontend Developer
 
 I am a dedicated front-end developer with three years of hands-on experience in crafting engaging user interfaces and delivering high-quality web applications. I take pride in writing efficient and maintainable code. With a strong passion for continuous learning and professional growth, I am actively seeking opportunities within forward-thinking organizations that are committed to making a positive impact and taking on challenging problems.
 
-* ✨ Creating bugs since 2019
 * 📚 I'm currently a student at the University of South Wales
 * 🖥️ See my portfolio at https://cyphermoon.vercel.app/
 * ✉️  You can contact me at kelvin.atologun1@gmail.com
